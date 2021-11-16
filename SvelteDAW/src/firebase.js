@@ -8,12 +8,12 @@ import { getFirestore } from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB1uLdwK81XjO4u14xXiJVkeelKWS9EKvI",
-  authDomain: "sveltedaw2.firebaseapp.com",
-  projectId: "sveltedaw2",
-  storageBucket: "sveltedaw2.appspot.com",
-  messagingSenderId: "821390868147",
-  appId: "1:821390868147:web:2b099bb3f49c9d8acffac6"
+  apiKey: "AIzaSyCXEM387rvlJUKftUAkNIXZA13SGjyi2GE",
+  authDomain: "svelte-daw.firebaseapp.com",
+  projectId: "svelte-daw",
+  storageBucket: "svelte-daw.appspot.com",
+  messagingSenderId: "139517520625",
+  appId: "1:139517520625:web:4a0ed09107eb61c999d750"
 };
 
 // Initialize Firebase

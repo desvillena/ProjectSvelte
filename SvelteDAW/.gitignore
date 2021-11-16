@@ -1,0 +1,11 @@
+/sveltebase/node_modules/
+/sveltebase/public/build/
+/sveltebase/public/*.css
+/sveltebase/public/*.js
+/node_modules/
+/public/build/
+/public/*.css
+
+.DS_Store
+sveltebase/package-lock.json
+
